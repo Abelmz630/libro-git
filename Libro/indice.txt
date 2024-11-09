@@ -1,5 +1,8 @@
 Capítulo 1: Introducción a Git
 Capítulo 2:  Flujogit log de trabajo básico
+
 Capítulo 3: Repositorios remotos
+
 Capítulo 4: Repositorios remotos 
-Capítulo 5: Conceptos avanzadoss
+
+
